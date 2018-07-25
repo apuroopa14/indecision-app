@@ -14,7 +14,7 @@ git log-view recent commits
 
 #flow for react:
 
-componetn calls action generator
+component calls action generator
 action generator returns object
 component dispatches object
 redux store changes
