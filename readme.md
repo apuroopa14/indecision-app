@@ -1,4 +1,6 @@
 #about project
+
+
 Developed an Indecision application using React.js
 This app lets you add options and randomly computer selects you one of the gien options for you.
 This app will be useful when you confused about which one to select among multiple options 
